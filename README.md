@@ -19,8 +19,8 @@ Terminate the program.
 
 ## Program :
 ```
-Developed By: Mirudhula D
-Register No.: 212221230060
+Developed By: Lathika Sunder
+Register No.: 212221230054
 ```
 ```
 #include "common.h"
